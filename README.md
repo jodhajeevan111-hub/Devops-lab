@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "Hello World"# Devops-lab
+Hello Jenkins
+This is my DevOps lab
